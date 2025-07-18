@@ -1,7 +1,7 @@
 ### 👋 Olá! Seja bem-vindo(a) ao meu GitHub!
 
 Sou uma pessoa em constante aprendizado, focado no desenvolvimento com **C/C++**, 
-interessado em atuar nas áreas de **sistemas embarcados** e **software** e apaixonado por robótica 🤖.
+interessado em atuar nas áreas de **sistemas embarcados** e **software** e apaixonado por **robótica** 🤖.
 
 ---
 
@@ -24,5 +24,5 @@ interessado em atuar nas áreas de **sistemas embarcados** e **software** e apai
 ---
 ### 📌 Projetos em Destaque
 
-- `estudos-em-c`: Exercícios e mini projetos em C/C++ para fixar conceitos fundamentais.
+- `c-journey`: Exercícios e mini projetos em C/C++ para fixar conceitos fundamentais.
 - *(Mais projetos virão em breve!)*
