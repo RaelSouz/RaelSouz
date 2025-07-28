@@ -23,6 +23,3 @@ interessado em atuar nas áreas de **sistemas embarcados** e **software** e apai
 
 ---
 ### 📌 Projetos em Destaque
-
-- `c-journey`: Exercícios e mini projetos em C/C++ para fixar conceitos fundamentais.
-- *(Mais projetos virão em breve!)*
